@@ -38,4 +38,4 @@ Import this file on your app.scss
 
 ```
 ##### ~ .mt-x and .mb-x
-Where: x is the value from 0 to 100, you can increment 100 to what value you want (just edit the _mtb.scss file).
+Where: x is the value from 0 to 100, you can increment 100 to what value you want (just edit the _mtmb.scss file).
