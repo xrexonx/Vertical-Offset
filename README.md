@@ -1,7 +1,7 @@
 # Vertical offset
 Dynamic value for margin-top and margin-bottom. ~ Sass tips.
 
-### _mtb.scss
+### _mtmb.scss
 
 ```scss
 
@@ -24,7 +24,7 @@ Import this file on your app.scss
 ```scss
 //app.scss
 
-@import "mtb";
+@import "mtmb";
 
 //another scss code here...
 ```
