@@ -3,7 +3,7 @@ Dynamic value for margin-top and margin-bottom. ~ Sass tips.
 
 ### _mtb.scss
 
-```css
+```scss
 
 @for $i from 0 through 100 {
   .mt-#{$i} {
@@ -21,7 +21,7 @@ Dynamic value for margin-top and margin-bottom. ~ Sass tips.
 ### Usage 
 Import this file on your app.scss
 
-```css
+```scss
 //app.scss
 
 @import "mtb";
