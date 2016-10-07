@@ -1,5 +1,5 @@
 # Vertical offset
-Dynamic value for margin-top and margin bottom.
+Dynamic value for margin-top and margin-bottom. ~ Sass tips.
 
 
 ### Usage 
@@ -10,7 +10,6 @@ Import this file on your app.scss
 
 @import "mtb";
 
-
 //another scss code here...
 ```
 
@@ -20,5 +19,4 @@ Import this file on your app.scss
 <div class="mt-x mb-x"></div>
 ```
 ~ .mt-x and .mb-x
-Where: x is the value from 0 to 100
-You can increment 100 to what value you want.
+Where: x is the value from 0 to 100, you can increment 100 to what value you want.
