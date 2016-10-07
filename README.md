@@ -1,6 +1,22 @@
 # Vertical offset
 Dynamic value for margin-top and margin-bottom. ~ Sass tips.
 
+### _mtb.scss
+
+```css
+
+@for $i from 0 through 100 {
+  .mt-#{$i} {
+    margin-top: #{$i}px;
+  }
+
+  .mb-#{$i} {
+    margin-bottom: #{$i}px;
+  }
+}
+
+// ~ rexon
+```
 
 ### Usage 
 Import this file on your app.scss
