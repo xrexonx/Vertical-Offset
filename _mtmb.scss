@@ -20,6 +20,11 @@ Vertical offset
   .mb-#{$i} {
     margin-bottom: #{$i}px;
   }
+  
+  .mt-mb-#{$i} {
+    margin-top: #{$i}px;
+    margin-bottom: #{$i}px;
+  }
 }
 
 // ~ rexon
