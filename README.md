@@ -44,7 +44,7 @@ Import this file on your app.scss
 <!-- If both have the same value like this -->
 <div class="mt-15 mb-15"></div>
 
-<!-- You can simple do this -->
+<!-- You can simply do this -->
 <div class="mt-mb-15"></div>
 
 ```
